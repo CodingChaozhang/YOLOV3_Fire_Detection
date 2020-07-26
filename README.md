@@ -1,7 +1,7 @@
 # YOLOV3-Fire-Detection
 
-![csdn](https://blog.csdn.net/Mind_programmonkey)
-![github](https://github.com/CodingChaozhang)
+[csdn](https://blog.csdn.net/Mind_programmonkey)
+[github](https://github.com/CodingChaozhang)
 
 Yolov3的Pytorch版本实现火焰检测，其具体效果如下:
 
